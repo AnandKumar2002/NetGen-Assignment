@@ -36,6 +36,7 @@ const Login = () => {
           value={email}
           onChange={(e) => setEmail(e.target.value)}
           required
+          noValidate
           className="input-field"
         />
       </div>
