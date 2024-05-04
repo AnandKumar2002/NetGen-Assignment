@@ -6,6 +6,7 @@ import Login from "./components/Login";
 import GitHubSearch from "./components/GitHubSearch";
 import { AuthProvider } from "./components/Auth";
 import { RequireAuth } from "./components/RequireAuth";
+import FrontPage from "./components/FrontPage";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <div>
         <Navbar />
         <Routes>
+          <Route path="/NetGen-Assignment" element={<FrontPage />} />
           <Route path="/" element={<Home />} />
           <Route path="/login" element={<Login />} />
           <Route path="/githubsearch" element={<RequireAuth><GitHubSearch /></RequireAuth>} />
