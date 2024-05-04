@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/NetGen-Assignment/static/css/main.4efa84e9.css",
-    "main.js": "/NetGen-Assignment/static/js/main.4e3ca790.js",
+    "main.css": "/NetGen-Assignment/static/css/main.cda83792.css",
+    "main.js": "/NetGen-Assignment/static/js/main.4e9c7171.js",
     "static/js/453.5d3d1185.chunk.js": "/NetGen-Assignment/static/js/453.5d3d1185.chunk.js",
     "service-worker.js": "/NetGen-Assignment/service-worker.js",
     "index.html": "/NetGen-Assignment/index.html",
-    "main.4efa84e9.css.map": "/NetGen-Assignment/static/css/main.4efa84e9.css.map",
-    "main.4e3ca790.js.map": "/NetGen-Assignment/static/js/main.4e3ca790.js.map",
+    "main.cda83792.css.map": "/NetGen-Assignment/static/css/main.cda83792.css.map",
+    "main.4e9c7171.js.map": "/NetGen-Assignment/static/js/main.4e9c7171.js.map",
     "453.5d3d1185.chunk.js.map": "/NetGen-Assignment/static/js/453.5d3d1185.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4efa84e9.css",
-    "static/js/main.4e3ca790.js"
+    "static/css/main.cda83792.css",
+    "static/js/main.4e9c7171.js"
   ]
 }
