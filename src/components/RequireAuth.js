@@ -1,0 +1,15 @@
+import { useAuth } from "./Auth";
+import { Navigate } from "react-router-dom";
+
+export const RequireAuth = ({children}) => {
+    const auth = useAuth()
+
+    if (!auth.email || !localStorage.getItem('token')) {
+        return <Navigate to='/login' replace/>
+    }
+    return (
+        <>
+            {children}
+        </>
+    )
+}

@@ -1,0 +1,24 @@
+.home-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+    width: 70vw;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.home-container h1 {
+    font-weight: 900;
+    font-size: 15vw;
+    background-image: url('https://t4.ftcdn.net/jpg/06/56/23/47/360_F_656234769_2jhb8HiIazMjpB9stRG5ios0Mwq1TTrA.jpg');
+    background-size: cover;
+    background-clip: text;
+    // -webkit-backface-visibility: text;
+    color: transparent;
+}
+
+.home-container h2 {
+    margin-bottom: 3em;
+}
