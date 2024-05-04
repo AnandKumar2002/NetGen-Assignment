@@ -1,10 +1,17 @@
+:root {
+    --primary-color: #003C43;
+    --secondary-color: #135D66;
+    --third-color: #77B0AA;
+    --border-color: #E3FEF7;
+}
+
 .login-container {
     max-width: 400px;
     margin: 50px auto;
     padding: 20px;
-    border: 1px solid #E3FEF7;
+    border: 1px solid var(--border-color);
     border-radius: 8px;
-    background-color: #E3FEF7;
+    background-color: var(--border-color);
 }
 
 label {
@@ -20,15 +27,15 @@ label {
     border: 1px solid #ccc;
     border-radius: 4px;
     width: 100%;
-    outline-color: #135c66;
-    background-color: #3CBC8D;
+    outline-color: var(--secondary-color);
+    background-color: var(--border-color);
 }
 
 .login-button {
     padding: 8px 16px;
     border: none;
     border-radius: 4px;
-    background-color: #135c66;
+    background-color: var(--secondary-color);
     color: #fff;
     cursor: pointer;
 }
