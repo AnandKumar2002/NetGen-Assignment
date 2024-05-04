@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/NetGen-Assignment/static/css/main.cda83792.css",
-    "main.js": "/NetGen-Assignment/static/js/main.2eaf4d99.js",
+    "main.css": "/NetGen-Assignment/static/css/main.28caf9c1.css",
+    "main.js": "/NetGen-Assignment/static/js/main.06ca4670.js",
     "index.html": "/NetGen-Assignment/index.html",
-    "main.cda83792.css.map": "/NetGen-Assignment/static/css/main.cda83792.css.map",
-    "main.2eaf4d99.js.map": "/NetGen-Assignment/static/js/main.2eaf4d99.js.map"
+    "main.28caf9c1.css.map": "/NetGen-Assignment/static/css/main.28caf9c1.css.map",
+    "main.06ca4670.js.map": "/NetGen-Assignment/static/js/main.06ca4670.js.map"
   },
   "entrypoints": [
-    "static/css/main.cda83792.css",
-    "static/js/main.2eaf4d99.js"
+    "static/css/main.28caf9c1.css",
+    "static/js/main.06ca4670.js"
   ]
 }
